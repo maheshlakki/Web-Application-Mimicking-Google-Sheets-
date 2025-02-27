@@ -33,7 +33,7 @@ This is a fully functional web-based spreadsheet application that mimics Google 
 ## Installation & Usage
 1. Clone this repository:
    ```bash
-   git clone https://maheshlakki.github.io/Web-Application-Mimicking-Google-Sheets/
+   https://github.com/maheshlakki/Web-Application-Mimicking-Google-Sheets-
    ```
 2. Open `index.html` in a browser.
 3. Start using the spreadsheet functionality!
